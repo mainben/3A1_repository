@@ -12,6 +12,6 @@ public class Enseignant {
     private int idEnseignant;
     private String numTel;
     private int a;
-    private int b;
+    private String b;
     
 }

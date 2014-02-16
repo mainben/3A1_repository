@@ -13,6 +13,6 @@ public class Enseignant {
     private String numTel;
     private int a;
     private String b;
-    private String conflit;
+    private int conflit;
     
 }

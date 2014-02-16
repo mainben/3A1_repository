@@ -9,5 +9,6 @@ package smsapplication;
  * @author Titiloss
  */
 public class Enseignant {
+    private int idEnseignant;
     
 }

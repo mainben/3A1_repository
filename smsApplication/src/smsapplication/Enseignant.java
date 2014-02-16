@@ -10,7 +10,7 @@ package smsapplication;
  */
 public class Enseignant {
     private int idEnseignant;
-    private int numTel;
-    private String a;
+    private String numTel;
+    private int a;
     
 }

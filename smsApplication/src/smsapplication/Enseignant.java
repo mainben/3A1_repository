@@ -10,10 +10,5 @@ package smsapplication;
  */
 public class Enseignant {
     private int idEnseignant;
-    private String numTel;
-    private int a;
-    private String b;
-    private int conflit;
-    private String finale;
     
 }

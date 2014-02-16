@@ -11,7 +11,6 @@ package smsapplication;
 public class Enseignant {
     private int idEnseignant;
     private String conflit;
-    private String test;
-    private String voila;
+    private int test;
     
 }

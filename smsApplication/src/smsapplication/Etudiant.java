@@ -14,7 +14,6 @@ public class Etudiant {
     private String prenom;
     private int conflit;
 
-
     public int getIdEtudiant() {
         return idEtudiant;
     }

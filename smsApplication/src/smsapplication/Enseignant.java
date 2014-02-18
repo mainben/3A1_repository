@@ -14,5 +14,7 @@ public class Enseignant {
     private int test;
     private int conflit1;
     private int conflit2;
+    private int reussi;
+
     
 }

@@ -12,6 +12,8 @@ public class Etudiant {
     private int idEtudiant;
     private String nom;
     private String prenom;
+    private int conflit;
+
 
     public int getIdEtudiant() {
         return idEtudiant;

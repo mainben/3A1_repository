@@ -12,7 +12,7 @@ public class Etudiant {
     private int idEtudiant;
     private String nom;
     private String prenom;
-    private int conflit;
+    private String conflit;
 
     public int getIdEtudiant() {
         return idEtudiant;
